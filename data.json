@@ -1,0 +1,131 @@
+{
+    "title": "Onkar Mane",
+    "header": {
+      "name": "Onkar Mane",
+      "role": "Software Engineer",
+      "bio": "JavaScript and Python with strong experience in modern frameworks and libraries."
+    },
+    "skills": {
+      "languages": ["Python", "JavaScript", "TypeScript", "SQL"],
+      "frameworks": ["Angular", "React"],
+      "databases": ["MySQL", "SQL Server"],
+      "cloud": ["Azure"]
+    },
+    "experience": [
+      {
+        "position": "Senior Software Engineer at Capgemini",
+        "duration": "December 2021 - Present",
+        "projects": [
+         
+        ]
+      },
+      {
+        "position": "Software Engineer at Capgemini",
+        "duration": "December 2021 - Present",
+        "projects": [
+          {
+            "title": "890 Enterprise",
+            "role": "Frontend Developer",
+            "description": "At 890 by Capgemini"
+          },
+          {
+            "title": "MeduGlobal",
+            "role": "Frontend Developer",
+            "description": "In the MeduGlobal project"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "CRUD Application",
+        "technologies": ["Angular", "Javascript", "SQL"],
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda provident in quam magnam sint id consequatur ipsam quasi. Maiores optio error iure quaerat hic odit? Eligendi suscipit id nobis nesciunt.",
+        "links": {
+          "source": "#",
+          "visit": "#"
+        }
+      },
+      {
+        "title": "Another CRUD Application",
+        "technologies": ["Angular", "Javascript", "SQL"],
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda provident in quam magnam sint id consequatur ipsam quasi. Maiores optio error iure quaerat hic odit? Eligendi suscipit id nobis nesciunt.",
+        "links": {
+          "source": "#",
+          "visit": "#"
+        }
+      }
+    ],
+    "achievements": [
+      ""
+    ],
+    "hobbies": [
+      {
+        "title": "Playing Cricket",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda provident in quam magnam sint id consequatur ipsam quasi. Maiores optio error iure quaerat hic odit? Eligendi suscipit id nobis nesciunt."
+      },
+      {
+        "title": "Listening to music",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda provident in quam magnam sint id consequatur ipsam quasi. Maiores optio error iure quaerat hic odit? Eligendi suscipit id nobis nesciunt."
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Az-900 ",
+        "provider": "Microsoft"
+      },
+      {
+        "title": "Agile Software Development",
+        "provider": "Coursera - University of Minnesota"
+      },
+      {
+        "title": "Front-End Web UI Frameworks and Tools:Bootstrap 4",
+        "provider": "Coursera"
+      },
+      {
+        "title": "Front-End JavaScript Frameworks: Angular",
+        "provider": "Coursera"
+      },
+      {
+        "title": "MS SQL Server",
+        "provider": "Udemy"
+      },
+      {
+        "title": "Databases and SQL for Data Science with Python",
+        "provider": "Coursera - IBM"
+      },
+      {
+        "title": "OCEAN Certification (SQL) Level 1 (Beginner)",
+        "provider": "OCEAN"
+      },
+      {
+        "title": "Training in Python, PySpark, Big Data",
+        "provider": "Capgemini Training"
+      }
+    ],
+    "footer": {
+      "socialLinks": [
+        {
+          "platform": "LinkedIn",
+          "url": "#",
+          "icon": "./assets/icons/LinkedIn.png"
+        },
+        {
+          "platform": "GitHub",
+          "url": "#",
+          "icon": "./assets/icons/GitHub.png"
+        },
+        {
+          "platform": "Instagram",
+          "url": "https://sagarsr1007.github.io/",
+          "icon": "./assets/icons/Instagram.png"
+        },
+        {
+          "platform": "TwitterX",
+          "url": "#",
+          "icon": "./assets/icons/TwitterX.png"
+        }
+      ]
+    }
+  }
+  
